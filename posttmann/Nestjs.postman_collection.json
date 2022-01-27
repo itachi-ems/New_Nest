@@ -171,7 +171,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjo1LCJuYW1lIjoiZGVtbyIsInVzZXJuYW1lIjoiU2hvcGtlZXBlciIsImVtYWlsIjoiaGFyc2hAc2hvcGtlZXBlci5jb20iLCJyb2xlIjoic2hvcGtlZXBlciJ9LCJpYXQiOjE2NDMxMjg0MzAsImV4cCI6MTY3NDIzMjQzMH0.llcu5K1QjYzeItRA_4cJiru9BGmD1ymG1RPv5M27di4",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjo0LCJuYW1lIjoiZGVtbyIsInVzZXJuYW1lIjoiZGVtbyIsImVtYWlsIjoiaGFyc2hAZGVtby5jb20iLCJyb2xlIjoiYWRtaW4ifSwiaWF0IjoxNjQzMTMyNjE0LCJleHAiOjE2NzQyMzY2MTR9.PXSPDJI71sZa9uVpO64SVTcuNmS-S7aYbPUN2PQ0UYA",
 									"type": "string"
 								}
 							]
@@ -180,7 +180,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"role\":\"shopkeeper\"\n}",
+							"raw": "{\n    \"role\":\"admin\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
